@@ -125,9 +125,7 @@ Feel free to fork this repo and contribute to the project.
 
 **Yash Suryawanshi**
 
-## License
 
-This project is licensed under the MIT License.
 
 
 
