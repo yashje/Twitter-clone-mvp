@@ -47,7 +47,7 @@ This project consists of two main parts:
 ### Clone Repository
 
 ```sh
-git clone https://github.com/YOUR_GITHUB/twitter-clone-mvp.git
+git clone https://github.com/yashje/Twitter-clone-mvp
 cd twitter-clone-mvp
 ```
 
